@@ -14,3 +14,11 @@
 - 게임 내부에 배치된 오브젝트를 획득하거나 적을 처치하는 등의 방식으로 스코어링 기능 구현
 ## 서브 컨셉 5 : 스테이지
 - 스테이지마다 배경 화면, 지형 배치, 출현 적 등을 다르게 하여 다양성 추구
+<br><br>
+# [관련 이미지 & 동영상]
+- 이미지
+  <img src="./img/Classic NES - Super Mario Bros.jpg">
+- 동영상
+  [![](./img/Classic NES - Super Mario Bros.jpg)](https://www.youtube.com/watch?v=rLl9XBg7wSs&t=2s)
+<br><br>
+# [대표 이미지]
