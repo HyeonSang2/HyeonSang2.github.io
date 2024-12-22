@@ -19,7 +19,7 @@
 - 이미지
   <img src="./img/Classic NES - Super Mario Bros.jpg">
 - 동영상
-  [![](./img/Classic NES - Super Mario Bros.jpg)](https://www.youtube.com/watch?v=rLl9XBg7wSs&t=2s)
+  [![](./img/Classic NES - Super Mario Bros.jpg)](https://www.youtube.com/watch?v=i_OjztdQ8iw)
 <br><br>
 # [대표 이미지]
 ![imagenation](./img/imagenation.jpg)
