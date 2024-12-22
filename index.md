@@ -82,3 +82,17 @@
 ## 4. 기술
 
 유니티 3D 플랫폼을 사용하여 PC 기반 게임으로 제작, 유니티 내 오브젝트 및 에셋을 활용
+
+<br><br>
+
+# [게임 시스템 디자인]
+- 시작 화면
+<img src="./img/Start.png">
+- 설명
+<img src="./img/Howtoplay.png">
+- 게임 내 플레이 화면
+<img src="./img/Game_image.png">
+- 게임 오버
+<img src="./img/Gameover.png">
+- 게임 클리어
+<img src="./img/Gameclear.png">
