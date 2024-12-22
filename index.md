@@ -17,12 +17,12 @@
 <br><br>
 # [관련 이미지 & 동영상]
 - 이미지
-  <img src="./img/Classic NES - Super Mario Bros.jpg">
+  <img src="./img/Pac_man.png">
 - 동영상
-  [![](./img/Classic NES - Super Mario Bros.jpg)](https://www.youtube.com/watch?v=i_OjztdQ8iw)
+  [![](./img/Pac_man.png)](https://www.youtube.com/watch?v=i_OjztdQ8iw)
 <br><br>
 # [대표 이미지]
-![imagenation](./img/imagenation.jpg)
+![Game_image](./img/Game_image.png)
 <br><br>
 # [작품묘사]
 
